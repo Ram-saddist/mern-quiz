@@ -1,0 +1,1137 @@
+{
+  "html": [
+    {
+      "id": 1,
+      "question": "Which HTML tag is used to define a paragraph?",
+      "Option A": "<para>",
+      "Option B": "<paragraph>",
+      "Option C": "<text>",
+      "Option D": "<p>",
+      "answer": "D"
+    },
+    {
+      "id": 2,
+      "question": "Which tag is used to create a hyperlink in HTML?",
+      "Option A": "<a>",
+      "Option B": "<link>",
+      "Option C": "<href>",
+      "Option D": "<url>",
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "What does HTML stand for?",
+      "Option A": "Hyperlinks and Text Markup Language",
+      "Option B": "Home Tool Markup Language",
+      "Option C": "Hyper Text Markup Language",
+      "Option D": "Hyper Tool Multi Language",
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "Which HTML tag is used to display an image?",
+      "Option A": "<image>",
+      "Option B": "<img>",
+      "Option C": "<pic>",
+      "Option D": "<src>",
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "Which attribute is used in HTML to define inline styles?",
+      "Option A": "style",
+      "Option B": "css",
+      "Option C": "class",
+      "Option D": "font",
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "question": "Which HTML tag makes text bold?",
+      "Option A": "<strong>",
+      "Option B": "<b>",
+      "Option C": "<bold>",
+      "Option D": "<em>",
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "How can you create an ordered list in HTML?",
+      "Option A": "<ul>",
+      "Option B": "<ol>",
+      "Option C": "<list>",
+      "Option D": "<li>",
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Which tag is used to define a table row in HTML?",
+      "Option A": "<table>",
+      "Option B": "<td>",
+      "Option C": "<tr>",
+      "Option D": "<th>",
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "Which tag is used to define the largest heading in HTML?",
+      "Option A": "<heading>",
+      "Option B": "<h6>",
+      "Option C": "<head>",
+      "Option D": "<h1>",
+      "answer": "D"
+    },
+    {
+      "id": 10,
+      "question": "What does the <br> tag do in HTML?",
+      "Option A": "Makes text bold",
+      "Option B": "Inserts a line break",
+      "Option C": "Creates a border",
+      "Option D": "Breaks a table",
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which HTML tag is used to define a form?",
+      "Option A": "<input>",
+      "Option B": "<form>",
+      "Option C": "<submit>",
+      "Option D": "<button>",
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which HTML element is used to specify a footer for a document?",
+      "Option A": "<bottom>",
+      "Option B": "<footer>",
+      "Option C": "<section>",
+      "Option D": "<foot>",
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "How can you add a comment in HTML?",
+      "Option A": "// This is a comment",
+      "Option B": "# This is a comment",
+      "Option C": "<!-- This is a comment -->",
+      "Option D": "** This is a comment **",
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "What is the correct HTML element for inserting a line break?",
+      "Option A": "<break>",
+      "Option B": "<br>",
+      "Option C": "<lb>",
+      "Option D": "<line>",
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which HTML element defines emphasized text?",
+      "Option A": "<italic>",
+      "Option B": "<em>",
+      "Option C": "<i>",
+      "Option D": "<strong>",
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "What is the correct HTML for adding a background color?",
+      "Option A": "<body bg='yellow'>",
+      "Option B": "<body background='yellow'>",
+      "Option C": "<body style='background-color:yellow;'>",
+      "Option D": "<background>yellow</background>",
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "Which tag is used to underline text in HTML?",
+      "Option A": "<u>",
+      "Option B": "<underline>",
+      "Option C": "<ul>",
+      "Option D": "<und>",
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "Which HTML element is used to define a list item?",
+      "Option A": "<ul>",
+      "Option B": "<li>",
+      "Option C": "<ol>",
+      "Option D": "<item>",
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "What is the correct HTML for inserting an image?",
+      "Option A": "<img src='image.jpg'>",
+      "Option B": "<image src='image.jpg'>",
+      "Option C": "<img href='image.jpg'>",
+      "Option D": "<pic src='image.jpg'>",
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "Which HTML element is used to play video files?",
+      "Option A": "<media>",
+      "Option B": "<video>",
+      "Option C": "<movie>",
+      "Option D": "<play>",
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "question": "Which HTML tag is used to define the document’s title?",
+      "Option A": "<meta>",
+      "Option B": "<title>",
+      "Option C": "<head>",
+      "Option D": "<h1>",
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "What is the correct way to open a link in a new tab?",
+      "Option A": "<a href='url' new='true'>",
+      "Option B": "<a href='url' target='_self'>",
+      "Option C": "<a href='url' target='_blank'>",
+      "Option D": "<link href='url' open='new'>",
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "Which HTML element is used for short inline quotations?",
+      "Option A": "<quote>",
+      "Option B": "<q>",
+      "Option C": "<blockquote>",
+      "Option D": "<em>",
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Which HTML tag is used to define an internal style sheet?",
+      "Option A": "<css>",
+      "Option B": "<style>",
+      "Option C": "<script>",
+      "Option D": "<stylesheet>",
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "Which element is used to define navigation links?",
+      "Option A": "<nav>",
+      "Option B": "<navigate>",
+      "Option C": "<links>",
+      "Option D": "<menu>",
+      "answer": "A"
+    }
+  ],
+  "css": [
+    {
+      "id": 1,
+      "question": "What does CSS stand for?",
+      "Option A": "Colorful Style Sheets",
+      "Option B": "Creative Style Sheets",
+      "Option C": "Computer Style Sheets",
+      "Option D": "Cascading Style Sheets",
+      "answer": "D"
+    },
+    {
+      "id": 2,
+      "question": "Which HTML tag is used to reference an external CSS file?",
+      "Option A": "<css>",
+      "Option B": "<link>",
+      "Option C": "<style>",
+      "Option D": "<script>",
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which property is used to change the text color in CSS?",
+      "Option A": "color",
+      "Option B": "font-color",
+      "Option C": "text-color",
+      "Option D": "background-color",
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "question": "Which CSS property controls the text size?",
+      "Option A": "font-style",
+      "Option B": "text-size",
+      "Option C": "font-size",
+      "Option D": "size",
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "Which symbol is used for ID selector in CSS?",
+      "Option A": ".",
+      "Option B": "#",
+      "Option C": "*",
+      "Option D": "$",
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "What is the correct syntax to select all p elements in a div?",
+      "Option A": "div p",
+      "Option B": "div.p",
+      "Option C": "p div",
+      "Option D": ".div p",
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "How do you make all elements bold using CSS?",
+      "Option A": "font-weight: bold;",
+      "Option B": "text-decoration: bold;",
+      "Option C": "font: bold;",
+      "Option D": "style: bold;",
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "Which property is used to set the background color?",
+      "Option A": "bgcolor",
+      "Option B": "color",
+      "Option C": "background-color",
+      "Option D": "bg-color",
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "Which property adds space inside an element's border?",
+      "Option A": "margin",
+      "Option B": "border",
+      "Option C": "padding",
+      "Option D": "spacing",
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "Which CSS rule makes text italic?",
+      "Option A": "font-variant: italic;",
+      "Option B": "text-style: italic;",
+      "Option C": "font-style: italic;",
+      "Option D": "style: italic;",
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "What is the default position value in CSS?",
+      "Option A": "absolute",
+      "Option B": "relative",
+      "Option C": "static",
+      "Option D": "fixed",
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "Which property sets the space between lines of text?",
+      "Option A": "line-height",
+      "Option B": "spacing",
+      "Option C": "text-line",
+      "Option D": "height-line",
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "What does the 'z-index' property control?",
+      "Option A": "text size",
+      "Option B": "layer stacking order",
+      "Option C": "zoom level",
+      "Option D": "opacity",
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "How do you make a list horizontal?",
+      "Option A": "list-style: inline;",
+      "Option B": "display: list-inline;",
+      "Option C": "display: inline;",
+      "Option D": "list: horizontal;",
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "Which unit is relative to the font-size of the element?",
+      "Option A": "em",
+      "Option B": "px",
+      "Option C": "pt",
+      "Option D": "cm",
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "question": "Which property changes the type of cursor?",
+      "Option A": "mouse",
+      "Option B": "pointer",
+      "Option C": "cursor",
+      "Option D": "hover",
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "Which CSS property hides an element?",
+      "Option A": "display: none;",
+      "Option B": "visibility: off;",
+      "Option C": "opacity: 0;",
+      "Option D": "hidden: true;",
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "How do you apply a class in CSS?",
+      "Option A": "@classname",
+      "Option B": ".classname",
+      "Option C": "#classname",
+      "Option D": "/classname",
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which is the correct way to apply multiple classes?",
+      "Option A": "class='one, two'",
+      "Option B": "class='one two'",
+      "Option C": "class='one.two'",
+      "Option D": "class='one;two'",
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Which selector selects all elements of a specific type?",
+      "Option A": ".",
+      "Option B": "#",
+      "Option C": "*",
+      "Option D": "element name",
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "question": "What is the use of the 'hover' selector?",
+      "Option A": "To style links",
+      "Option B": "To style elements on click",
+      "Option C": "To style elements when mouse is over",
+      "Option D": "To make element disappear",
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "Which property is used to align text to the center?",
+      "Option A": "text-position",
+      "Option B": "text-style",
+      "Option C": "text-align",
+      "Option D": "text-center",
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "What is the box model in CSS?",
+      "Option A": "A layout technique",
+      "Option B": "A set of display properties",
+      "Option C": "Content, padding, border, margin",
+      "Option D": "Only padding and margin",
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "How do you make a website responsive?",
+      "Option A": "Using @media queries",
+      "Option B": "Using div tags",
+      "Option C": "Using background images",
+      "Option D": "Using static widths",
+      "answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "Which property changes the width of an element?",
+      "Option A": "length",
+      "Option B": "width",
+      "Option C": "size",
+      "Option D": "padding",
+      "answer": "B"
+    }
+  ],
+  "react": [
+    {
+      "id": 1,
+      "question": "What is React primarily used for?",
+      "Option A": "Database management",
+      "Option B": "Building user interfaces",
+      "Option C": "Server-side scripting",
+      "Option D": "Operating systems",
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Who developed React?",
+      "Option A": "Google",
+      "Option B": "Microsoft",
+      "Option C": "Facebook",
+      "Option D": "Amazon",
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "Which method is used to create components in modern React?",
+      "Option A": "React.createClass()",
+      "Option B": "function or class",
+      "Option C": "new React.Component()",
+      "Option D": "React.makeComponent()",
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "What is the correct syntax to import a component in React?",
+      "Option A": "import component from 'module';",
+      "Option B": "require('component');",
+      "Option C": "include component;",
+      "Option D": "use component from 'module';",
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "What is JSX?",
+      "Option A": "A template engine",
+      "Option B": "A JavaScript XML-like syntax",
+      "Option C": "A CSS preprocessor",
+      "Option D": "A database language",
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which hook is used to manage state in functional components?",
+      "Option A": "useEffect",
+      "Option B": "useState",
+      "Option C": "useContext",
+      "Option D": "useReducer",
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "What does the useEffect hook do?",
+      "Option A": "Manages local state",
+      "Option B": "Performs side effects",
+      "Option C": "Routes components",
+      "Option D": "Connects to Redux",
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "What is the default port for React development server?",
+      "Option A": "8000",
+      "Option B": "3000",
+      "Option C": "5000",
+      "Option D": "8080",
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "Which keyword is used to create a class component in React?",
+      "Option A": "new",
+      "Option B": "component",
+      "Option C": "class",
+      "Option D": "object",
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "What is the correct way to pass props?",
+      "Option A": "<Component {name} />",
+      "Option B": "<Component name='value' />",
+      "Option C": "<Component.name='value' />",
+      "Option D": "<Component value:name />",
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which method is used to render elements to the DOM in React?",
+      "Option A": "ReactDOM.display()",
+      "Option B": "ReactDOM.print()",
+      "Option C": "ReactDOM.render()",
+      "Option D": "React.display()",
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "What does 'props' stand for?",
+      "Option A": "Properties",
+      "Option B": "Prototypes",
+      "Option C": "Projects",
+      "Option D": "Processes",
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "What must every React component return?",
+      "Option A": "CSS",
+      "Option B": "JSX",
+      "Option C": "HTML",
+      "Option D": "XML",
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "How do you handle events in React?",
+      "Option A": "Using JavaScript event handlers",
+      "Option B": "With jQuery",
+      "Option C": "By using Redux",
+      "Option D": "By inline scripts",
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "question": "What is a React Fragment used for?",
+      "Option A": "To style components",
+      "Option B": "To render multiple elements without extra nodes",
+      "Option C": "To create lists",
+      "Option D": "To use context",
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "What is the virtual DOM?",
+      "Option A": "A copy of the real DOM in memory",
+      "Option B": "A CSS file",
+      "Option C": "A database",
+      "Option D": "A component state",
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "Which library is often used with React for routing?",
+      "Option A": "React-Router",
+      "Option B": "Express",
+      "Option C": "Angular",
+      "Option D": "Redux",
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "Which statement is true about state in React?",
+      "Option A": "State is immutable",
+      "Option B": "State is shared across all components",
+      "Option C": "State cannot be updated",
+      "Option D": "State is not reactive",
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "question": "Which lifecycle method is called after the component is rendered?",
+      "Option A": "componentWillMount",
+      "Option B": "componentDidMount",
+      "Option C": "componentWillUpdate",
+      "Option D": "componentDidUpdate",
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Which tool is used for debugging React applications?",
+      "Option A": "React Debugger",
+      "Option B": "Redux DevTools",
+      "Option C": "React Developer Tools",
+      "Option D": "JS Console",
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "What is the purpose of keys in lists?",
+      "Option A": "To identify each element uniquely",
+      "Option B": "To hide elements",
+      "Option C": "To style elements",
+      "Option D": "To fetch data",
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "question": "How do you conditionally render a component?",
+      "Option A": "Using loops",
+      "Option B": "Using if statements outside JSX",
+      "Option C": "Using ternary or logical &&",
+      "Option D": "Using querySelector",
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "What is context in React?",
+      "Option A": "A way to store state",
+      "Option B": "A way to share props deeply",
+      "Option C": "A CSS framework",
+      "Option D": "An event handler",
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "What is the default value of props if not passed?",
+      "Option A": "null",
+      "Option B": "undefined",
+      "Option C": "0",
+      "Option D": "false",
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "What is the main advantage of React?",
+      "Option A": "Faster API handling",
+      "Option B": "Reusable components",
+      "Option C": "Built-in backend",
+      "Option D": "Global state only",
+      "answer": "B"
+    }
+  ],
+  "python": [
+    {
+      "id": 1,
+      "question": "What is the correct file extension for Python files?",
+      "Option A": ".pt",
+      "Option B": ".py",
+      "Option C": ".pyt",
+      "Option D": ".p",
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which keyword is used to define a function in Python?",
+      "Option A": "def",
+      "Option B": "func",
+      "Option C": "define",
+      "Option D": "function",
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "What is the output of: print(2 ** 3)?",
+      "Option A": "5",
+      "Option B": "6",
+      "Option C": "8",
+      "Option D": "9",
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "Which data type is immutable in Python?",
+      "Option A": "List",
+      "Option B": "Dictionary",
+      "Option C": "Set",
+      "Option D": "Tuple",
+      "answer": "D"
+    },
+    {
+      "id": 5,
+      "question": "What does the 'len()' function do?",
+      "Option A": "Returns a string",
+      "Option B": "Calculates factorial",
+      "Option C": "Returns length",
+      "Option D": "Creates a list",
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "Which symbol is used for comments in Python?",
+      "Option A": "//",
+      "Option B": "#",
+      "Option C": "/* */",
+      "Option D": "<!-- -->",
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "What is the output of: type('Hello')?",
+      "Option A": "<class 'string'>",
+      "Option B": "<class 'text'>",
+      "Option C": "<class 'str'>",
+      "Option D": "<string>",
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "Which method is used to add an element to a list?",
+      "Option A": "insert()",
+      "Option B": "append()",
+      "Option C": "add()",
+      "Option D": "push()",
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "What is a correct syntax to create a dictionary?",
+      "Option A": "dict = ['key':'value']",
+      "Option B": "dict = {'key':'value'}",
+      "Option C": "dict = (key:value)",
+      "Option D": "dict = 'key':'value'",
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which keyword is used to handle exceptions?",
+      "Option A": "throw",
+      "Option B": "catch",
+      "Option C": "except",
+      "Option D": "final",
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "What does 'range(5)' return?",
+      "Option A": "0 to 5",
+      "Option B": "1 to 5",
+      "Option C": "0 to 4",
+      "Option D": "1 to 4",
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "What is the output of 3 == 3.0?",
+      "Option A": "False",
+      "Option B": "True",
+      "Option C": "Error",
+      "Option D": "None",
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "Which of these is not a core data type in Python?",
+      "Option A": "Tuples",
+      "Option B": "Lists",
+      "Option C": "Class",
+      "Option D": "Dictionary",
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "What is the keyword to define a class in Python?",
+      "Option A": "object",
+      "Option B": "def",
+      "Option C": "class",
+      "Option D": "struct",
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "How do you start a loop that goes 5 times?",
+      "Option A": "for i in 5:",
+      "Option B": "for i in range(5):",
+      "Option C": "while i < 5:",
+      "Option D": "loop i to 5",
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "How do you convert a string to an integer?",
+      "Option A": "int('3')",
+      "Option B": "str(3)",
+      "Option C": "float('3')",
+      "Option D": "bool('3')",
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "What does the 'pass' statement do?",
+      "Option A": "Skips a loop",
+      "Option B": "Does nothing",
+      "Option C": "Terminates a function",
+      "Option D": "Raises an error",
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "What is the use of 'self' in Python classes?",
+      "Option A": "It refers to the class itself",
+      "Option B": "It refers to the current instance",
+      "Option C": "It refers to the parent class",
+      "Option D": "It refers to a global variable",
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "How do you write a conditional if statement?",
+      "Option A": "if x => 5:",
+      "Option B": "if (x => 5):",
+      "Option C": "if x >= 5:",
+      "Option D": "if x = 5 then:",
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "question": "What is indentation used for in Python?",
+      "Option A": "To create loops",
+      "Option B": "To separate functions",
+      "Option C": "To define blocks of code",
+      "Option D": "To import libraries",
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "What is the default return value of a function that does not return anything?",
+      "Option A": "0",
+      "Option B": "None",
+      "Option C": "False",
+      "Option D": "undefined",
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "What is a lambda function?",
+      "Option A": "A recursive function",
+      "Option B": "A static function",
+      "Option C": "An anonymous function",
+      "Option D": "A method from class",
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "How do you check the data type of a variable?",
+      "Option A": "typeOf(x)",
+      "Option B": "typeof(x)",
+      "Option C": "gettype(x)",
+      "Option D": "type(x)",
+      "answer": "D"
+    },
+    {
+      "id": 24,
+      "question": "What is used to handle exceptions in Python?",
+      "Option A": "try-except",
+      "Option B": "catch-finally",
+      "Option C": "try-catch",
+      "Option D": "throw-catch",
+      "answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "Which keyword is used to define a generator?",
+      "Option A": "yield",
+      "Option B": "return",
+      "Option C": "generate",
+      "Option D": "produce",
+      "answer": "A"
+    }
+  ],
+  "java": [
+    {
+      "id": 1,
+      "question": "Which keyword is used to define a class in Java?",
+      "Option A": "function",
+      "Option B": "define",
+      "Option C": "class",
+      "Option D": "struct",
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "Which of these is not a primitive data type in Java?",
+      "Option A": "int",
+      "Option B": "float",
+      "Option C": "boolean",
+      "Option D": "String",
+      "answer": "D"
+    },
+    {
+      "id": 3,
+      "question": "What is the size of int in Java?",
+      "Option A": "2 bytes",
+      "Option B": "4 bytes",
+      "Option C": "8 bytes",
+      "Option D": "1 byte",
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "Which method is the entry point of a Java program?",
+      "Option A": "start()",
+      "Option B": "main()",
+      "Option C": "run()",
+      "Option D": "init()",
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "Which keyword is used to inherit a class?",
+      "Option A": "implements",
+      "Option B": "inherits",
+      "Option C": "extends",
+      "Option D": "instanceof",
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "What does JVM stand for?",
+      "Option A": "Java Visual Machine",
+      "Option B": "Java Variable Method",
+      "Option C": "Java Virtual Machine",
+      "Option D": "Java Verified Method",
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is not an OOP concept?",
+      "Option A": "Encapsulation",
+      "Option B": "Polymorphism",
+      "Option C": "Compilation",
+      "Option D": "Abstraction",
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "Which symbol is used to import packages in Java?",
+      "Option A": "#",
+      "Option B": "%",
+      "Option C": "import",
+      "Option D": "*",
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "What is used to handle exceptions in Java?",
+      "Option A": "try-catch",
+      "Option B": "do-while",
+      "Option C": "for-if",
+      "Option D": "switch-case",
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "question": "Which access modifier allows access within the same package?",
+      "Option A": "private",
+      "Option B": "protected",
+      "Option C": "public",
+      "Option D": "default",
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "question": "Which operator is used to compare two values in Java?",
+      "Option A": "=",
+      "Option B": "==",
+      "Option C": "===",
+      "Option D": "equals",
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which keyword is used to create a constant in Java?",
+      "Option A": "const",
+      "Option B": "final",
+      "Option C": "static",
+      "Option D": "constant",
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "Which class is the parent of all classes in Java?",
+      "Option A": "Main",
+      "Option B": "Object",
+      "Option C": "Base",
+      "Option D": "Class",
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "Which of these keywords is used to prevent inheritance?",
+      "Option A": "static",
+      "Option B": "final",
+      "Option C": "private",
+      "Option D": "protected",
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which interface must be implemented to create a thread?",
+      "Option A": "Runnable",
+      "Option B": "Threadable",
+      "Option C": "EventListener",
+      "Option D": "Executor",
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "question": "Which method starts a thread execution in Java?",
+      "Option A": "init()",
+      "Option B": "run()",
+      "Option C": "start()",
+      "Option D": "execute()",
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "Which package contains Scanner class?",
+      "Option A": "java.input",
+      "Option B": "java.read",
+      "Option C": "java.util",
+      "Option D": "java.io",
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "Which keyword is used to create an object in Java?",
+      "Option A": "class",
+      "Option B": "new",
+      "Option C": "create",
+      "Option D": "this",
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which method is used to get the length of an array?",
+      "Option A": "size()",
+      "Option B": "length()",
+      "Option C": "length",
+      "Option D": "getSize()",
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "question": "What is the default value of a boolean variable in Java?",
+      "Option A": "true",
+      "Option B": "0",
+      "Option C": "null",
+      "Option D": "false",
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "question": "Which exception is thrown when dividing by zero?",
+      "Option A": "NullPointerException",
+      "Option B": "ArithmeticException",
+      "Option C": "NumberFormatException",
+      "Option D": "IOException",
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "How do you write a single-line comment in Java?",
+      "Option A": "# comment",
+      "Option B": "-- comment",
+      "Option C": "// comment",
+      "Option D": "/* comment */",
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "Which statement is used to stop a loop in Java?",
+      "Option A": "exit",
+      "Option B": "stop",
+      "Option C": "break",
+      "Option D": "return",
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "Which keyword is used to inherit an interface?",
+      "Option A": "extends",
+      "Option B": "implements",
+      "Option C": "inherits",
+      "Option D": "interface",
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "What is the extension of a compiled Java file?",
+      "Option A": ".java",
+      "Option B": ".class",
+      "Option C": ".exe",
+      "Option D": ".jar",
+      "answer": "B"
+    }
+  ]
+}
