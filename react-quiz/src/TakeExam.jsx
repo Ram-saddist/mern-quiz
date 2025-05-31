@@ -24,7 +24,7 @@ export default function TakeExam() {
   const fetchQuestions = async () => {
     try {
       const res = await axios.get(
-        `http://localhost:5000/api/questions/${subject}`
+        `https://mern-quiz-u0up.onrender.com/api/questions/${subject}`
       );
 
       const transformed = res.data.map((q) => ({
